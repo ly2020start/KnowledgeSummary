@@ -1,3 +1,8 @@
+
+/**
+ * The example demonstrate how to create sub process and thread. 
+ * Print pids of main process, sub process and tid of thread on terminal. 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
